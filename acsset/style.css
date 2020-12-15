@@ -1,0 +1,9 @@
+/* Su dung de css khi co nhieu thuoc tinh css duoc css nhieu lan */
+:root{
+    --text-color:green;
+    /* global variable */
+}
+
+h1{
+    color: var(--text-color);
+}
